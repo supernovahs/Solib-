@@ -1,5 +1,5 @@
 # Solib-
-Ethereum Public good solely focused on providing Efficient libraries for Solidity developers.
+Ethereum Public good solely focused on providing value for Solidity developers.
 
 ##  Want to Contribute?
 Head over to the [issue](https://github.com/supernovahs/Solib-/issues) section to raise questions or suggestions. 
